@@ -9,9 +9,9 @@
 
 ## Features
 
-*  Colors new tracks to match their group
+*  New tracks auto-match group color
 *  Updates colors when tracks move between groups
-*  Recolors child tracks when a group’s color changes
+*  Recolors child tracks when group color changes
 *  Works with subgroups
 
 **Tested on:** Bitwig 5.3.13 and Bitwig 6
