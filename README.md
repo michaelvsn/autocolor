@@ -57,7 +57,6 @@ and **autocolor :)** takes it a step further by updating colors when tracks move
 
 Made by [@michaelvsn](https://github.com/michaelvsn)
 
-Reddit: @michaelvision1
 
 ## Support
 
