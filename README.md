@@ -9,7 +9,7 @@
 
 ## Features
 
-*  New tracks auto-match group color
+*  New tracks auto-match their group color
 *  Updates colors when tracks move between groups
 *  Recolors child tracks when group color changes
 *  Works with subgroups
