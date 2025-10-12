@@ -41,6 +41,8 @@
 * I’m more of a musician than a coder, just made this to help me and my friends. Feel free to open a pull request :)
 * When opening a project, tracks might recolor automatically. Disable the script first if you don’t want that.
 * If a track didn’t recolor, click any other track and it should update.
+* If you’re using an older version of Bitwig and the script doesn’t show up in **Controllers**, your version probably **doesn’t support the API used in the script.**  
+  Try lowering the API number in the line `loadAPI(XX);` at the top of the `.js` file, but it might not work properly after that.
 
 
 <br>
